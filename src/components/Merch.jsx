@@ -47,10 +47,10 @@ const Merch = () => {
 
   return (
     <div>
-      <h1 className="text-center font-cheeseburga text-7xl text-orange-500 mt-4">
-        {" "}
-        Merchendise
+      <h1 className="text-center font-cheeseburga text-4xl md:text-5xl lg:text-6xl xl:text-7xl text-orange-500 mt-4">
+        Merchandise
       </h1>
+
       <Carousel
         additionalTransfrom={0}
         arrows
