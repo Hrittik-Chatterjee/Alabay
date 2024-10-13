@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* index.css or App.css */
+body {
+  font-family: "Arial", sans-serif; /* Default font for the body */
+}
+
+.chewy-regular {
+  font-family: "Chewy", system-ui, sans-serif; /* Apply Chewy font */
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* Add any other styles as needed */
